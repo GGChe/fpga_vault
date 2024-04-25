@@ -1,0 +1,8 @@
+/home/darthlamprey/Documents/fpga_vault/verilog/hello_world/hello_word.v {1 {vlog -work work -stats=none /home/darthlamprey/Documents/fpga_vault/verilog/hello_world/hello_word.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hello_word
+
+Top level modules:
+	hello_word
+
+} {} {}}
